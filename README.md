@@ -2,9 +2,6 @@
 
 <div align="center">
 
-![Codewars](https://www.codewars.com/users/Musuyaba/badges/micro)
-![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
-
 ![Musuyaba Animation](documentation/animation/textanim-Adc02.gif)
 
 </div>
