@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Musuyaba Animation](documentation/animation/textanim-Adc02.gif)
+![Image by https://textanim.com (Musuyaba Animation)](documentation/animation/textanim-Adc02.gif)
 
 </div>
 
