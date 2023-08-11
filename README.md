@@ -10,9 +10,13 @@
 
 <img align='right' src='documentation/images/musuyaba-logo.png' width='200"'>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rutrum efficitur arcu faucibus fringilla. Pellentesque vel mollis tellus. Vivamus ac arcu nisl. Vestibulum rutrum quam nec accumsan porttitor. Pellentesque in pretium metus. Proin vulputate nulla a ex porta, non semper elit venenatis. Sed vitae ligula ut mi viverra volutpat nec a odio. In sed molestie justo. Curabitur tincidunt rhoncus ornare. Suspendisse potenti.
+I am a curious and enthusiastic person who loves to explore new things and learn from others. I have always been fascinated by the power of programming languages, algorithms, and computational methods to create solutions for real-world problems. I enjoy the challenge of developing programs that work as expected and the thrill of discovering new knowledge along the way.
 
-Duis in eleifend leo. Proin aliquam nisi ipsum, in fringilla erat scelerisque et. Etiam aliquam, nisl id malesuada hendrerit, purus dolor dapibus ante, ac dignissim libero risus ac lacus. Nullam at bibendum ante. Cras a tristique nulla. Curabitur tristique egestas sem, in placerat felis rhoncus sed. Donec rutrum ex vel purus scelerisque gravida.
+I have also been involved in various organizations and communities that have enriched my skills and experiences in creativity, leadership, problem-solving, and teamwork. I value the opportunity to collaborate with people who share my passions and interests, as well as those who have different perspectives and backgrounds.
+
+I don't have a specific hobby, but I like to spend my time taking care of myself and working on projects that interest me. Some of the topics that I am currently interested in are the Internet of Things, Computer Vision, Machine Learning, Deep Learning, Server Administrator, and Web Development. I am always eager to learn more about these fields and apply them to real-world scenarios.
+
+I hope this text gives you an idea of who I am and what I do, feel free to reach out to me.
 
 ## :flags: My Stats
 
