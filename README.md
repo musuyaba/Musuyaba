@@ -30,7 +30,8 @@ I hope this text gives you an idea of who I am and what I do, feel free to reach
   </tr>
   <tr>
     <td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=musuyaba&layout=compact&theme=aura">
-    <br><small style="font-size:x-small">New API key generated on 2 August 2023</small></td>
+    <br>[ <sub><sup>New API key generated on 2 August 2023</sup></sub> ]
+    </td>
   </tr>
 </table>
 </div>
