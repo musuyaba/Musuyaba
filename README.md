@@ -1,6 +1,6 @@
 # Greetings~ <img width="30px" src="documentation/gif/hi.gif"> My Name is Musuyaba
 
-<div align="center">
+<div style="text-align: center;">
 
 ![Image by https://textanim.com (Musuyaba Animation)](documentation/animation/textanim-Adc02.gif)
 
@@ -8,7 +8,7 @@
 
 ## :octopus: About Me
 
-<img align='right' src='documentation/images/musuyaba-logo.png' width='200"'>
+<img style="float: right;" src='documentation/images/musuyaba-logo.png' width='200"'>
 
 I am a curious and enthusiastic person who loves to explore new things and learn from others. I have always been fascinated by the power of programming languages, algorithms, and computational methods to create solutions for real-world problems. I enjoy the challenge of developing programs that work as expected and the thrill of discovering new knowledge along the way.
 
@@ -20,7 +20,7 @@ I hope this text gives you an idea of who I am and what I do, feel free to reach
 
 ## :flags: My Stats
 
-<div align="center">
+<div style="text-align: center;">
 
 <table>
   <tr>
@@ -29,7 +29,8 @@ I hope this text gives you an idea of who I am and what I do, feel free to reach
     </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=musuyaba&layout=compact&theme=aura"></td>
+    <td colspan="2" style="text-align: center;"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=musuyaba&layout=compact&theme=aura">
+    <br><small style="font-size:x-small">New API key generated on 2 August 2023</small></td>
   </tr>
 </table>
 </div>
