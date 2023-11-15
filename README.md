@@ -36,7 +36,7 @@ I hope this text gives you an idea of who I am and what I do, feel free to reach
 </table>
 </div>
 
-## :carousel_horse: Open Source Projects
+## :carousel_horse: Personal Projects
 
 - IoT Stack ([Git Repo](https://github.com/Musuyaba/iot-stack))
   - Mosquitto Stack ([Git Repo :fire:](https://github.com/Musuyaba/mosquitto-stack))
