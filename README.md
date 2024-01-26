@@ -23,6 +23,9 @@ I hope this text gives you an idea of who I am and what I do, feel free to reach
 <div align="center">
 
 <table>
+  <tr >
+    <td colspan="2" align="center"><img src="https://www.codewars.com/users/Musuyaba/badges/large"></td>
+  </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musuyaba&layout=compact&theme=aura"></td>
     <td><img height=120px src="https://github.r2v.ch/codewars?user=Musuyaba&stroke=white&theme=nightowl&hide_clan=true">
